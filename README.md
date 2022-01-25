@@ -7,3 +7,4 @@ xcodebuild -resolvePackageDependencies -scmProvider system -project Facebook/Fac
 
 ## ios fackebook
 https://developers.facebook.com/docs/facebook-login/ios
+App ID: 969925377266641
